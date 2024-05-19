@@ -18,7 +18,7 @@ Welcome to the Flipkart Clone project! This project is a comprehensive e-commerc
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -140,23 +140,24 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
+## Photos
 
 
-   
 
 
-![Screenshot from 2021-11-01 18-05-31](https://user-images.githubusercontent.com/91063960/139678469-c631005a-9c20-4321-8022-24f4573427b7.png)
-![Screenshot from 2021-11-01 18-05-52](https://user-images.githubusercontent.com/91063960/139678483-ca95e74e-44a5-422c-9cac-4bfe463215ef.png)
-![Screenshot from 2021-11-01 18-06-08](https://user-images.githubusercontent.com/91063960/139678489-03130e57-7e0b-4bb0-96f6-f4ec85b8efbe.png)
-![Screenshot from 2021-11-01 18-06-32](https://user-images.githubusercontent.com/91063960/139678548-e58c550e-51c5-4695-a0c3-d6563737548a.png)
-![Screenshot from 2021-11-01 18-07-35](https://user-images.githubusercontent.com/91063960/139678663-177aedd5-e622-4441-871b-e0af7be1e363.png)
-![Screenshot from 2021-11-01 18-08-34](https://user-images.githubusercontent.com/91063960/139678729-432bb265-9d98-4a2d-8c27-d66eb2f09b26.png)
-![Screenshot from 2021-11-01 18-08-40](https://user-images.githubusercontent.com/91063960/139678735-0ac4e3e8-591d-4652-8965-22c830fa94db.png)
-![Screenshot from 2021-11-01 18-09-33](https://user-images.githubusercontent.com/91063960/139678737-8d069f75-9d7f-44ff-8e37-4be34ebc95cd.png)
+
+![Screenshot (1351)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/e23f4182-1d25-408f-8f23-8915e8d79b6f)
+![Screenshot (1352)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/e21cf28f-7ea9-42ad-b842-0a1229e05226)
+![Screenshot (1353)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/f1f502bd-1d3a-4ac2-95a0-7cbcbb4ed237)
+  ![Screenshot (1354)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/2197ee1d-414c-47e0-84a3-584c440545d8)
+![Screenshot (1355)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/b40b3d9f-cafb-4005-b8d5-6706dc8b1aae)
+![Screenshot (1356)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/09ce16bd-aae0-4016-81f5-35b9ddc9fba6)
+![Screenshot (1357)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/8f9022f0-b007-4a90-8b72-672d6fa20495)
+![Screenshot (1359)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/d97f51ce-ae48-4961-a22d-d450bb335ecc)
+![Screenshot (1360)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/387597f4-60a6-4973-a2b9-c83dc06ea737)
+![Screenshot (1358)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/940b69e3-ed97-4c64-b30c-da5a57d7790a)
+![Screenshot (1364)](https://github.com/Andriyas05/ECommerce-Website-Mern/assets/99260104/4017ac62-0170-4385-a585-fb138a8488b1)
 
 ---
 
