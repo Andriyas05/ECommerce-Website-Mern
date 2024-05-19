@@ -5,6 +5,10 @@
 
 Welcome to the Flipkart Clone project! This project is a comprehensive e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It replicates many of the core features of Flipkart, including user authentication, product browsing, shopping cart functionality, and order management. Additionally, it integrates the Paytm payment gateway for processing transactions.
 
+## Demo video
+[![Watch the video](https://img.youtube.com/vi/B-1uk1vw5N4/maxresdefault.jpg)](https://youtu.be/B-1uk1vw5N4)
+
+
 ## Table of Contents
 
 - [Features](#features)
